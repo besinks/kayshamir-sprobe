@@ -50,5 +50,5 @@
 
 <!-- GitHub Contributions Snake Animation -->
 <p align="center">
-  <img src="https://github.com/kayshamir/kayshamir/blob/output/snake.svg" alt="Snake animation"/>
+  <img src="https://github.com/kayshamir-sprobe/kayshamir-sprobe/blob/output/snake.svg" alt="Snake animation"/>
 </p>
