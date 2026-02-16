@@ -26,29 +26,3 @@
     ⚡ Fun fact → I like talking.
   </div>
 </div>
-
-<p> </p>
-<p> </p>
-
-<!-- Skills -->
-<p align="center" >
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,java,c,cs,python,nodejs,laravel,dotnet,react,nextjs,vite,django,jquery,mysql,postgres,firebase,supabase,tailwind,bootstrap,figma,git,github,postman,vercel,powershell,notion,npm,vscode&theme=light&perline=14"/>
-  </a>
-</p>
-
-<!-- Trophy -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kayshamir&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
-
-<!-- GitHub Stats & Streaks -->
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kayshamir&theme=flag-india&hide_border=false&border_color=DDDDDD" width="57%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayshamir&hide_border=false&border_color=EEEEEE&include_all_commits=true&layout=compact" width="41%" />
-</p>
-
-<!-- GitHub Contributions Snake Animation -->
-<p align="center">
-  <img src="https://github.com/kayshamir-sprobe/kayshamir-sprobe/blob/output/snake.svg" alt="Snake animation"/>
-</p>
